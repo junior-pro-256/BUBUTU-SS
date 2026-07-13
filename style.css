@@ -294,6 +294,22 @@ footer{
   
     
 }
+@media (max-width: 768px) {
+ body {
+        flex-direction: column;
+    }
 
+    body {
+        font-size: 18px;
+    }
+}
+
+/* Mobile phones */
+@media (max-width: 480px) {
+    body{
+        font-size: 16px;
+        padding: 10px;
+    }
+}
 
 
