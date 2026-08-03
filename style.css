@@ -56,7 +56,7 @@ border-radius: 100px;
 
 }
 @keyframes grow{
-    100%{transform: scale(1.5, 1.5 )}
+    
 }
 #images{
   text-align: center;
