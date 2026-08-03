@@ -171,6 +171,8 @@ body{
     background-color:aliceblue;
     margin: 0;
     padding: 0;
+    line-height: 1.6;
+    
 }
 #school{
     display: flex;
