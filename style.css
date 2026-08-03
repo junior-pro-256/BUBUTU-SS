@@ -51,7 +51,7 @@ border-radius: 100px;
 #back{
     background-image: url("school building.jpg");
     background-position: cover;
-    animation-name: grow;
+    
     animation-duration: 6s;
 
 }
